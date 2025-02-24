@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on serious game designing and computational biology RNA sequencing research.
-- 🌱 I’m currently learning Unity and Blast.
+- 🔭 I am currently working on a scRNA-seq data analysis project about RA disease
 - 💃 My hobbies are drawing, hiking, and swimming...
+- 🏖️ I have a particular fondness for laid-back, sun-drenched cities like Los Angeles.
 - 📫 How to reach me: zyalin459@gmail.com
 - 😄 Pronouns: She/Her
 
